@@ -24,7 +24,7 @@
 ### Framework, Bibilioteca e Serviços
 <div style="display: inline_block"> 
     <img align="center" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-    <img align="center" alt="Next JS" src="ttps://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+    <img align="center" alt="Next JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
     <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img align="center" alt="Tailwind_CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
     <img align="center" alt="Node JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
