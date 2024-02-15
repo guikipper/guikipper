@@ -15,7 +15,7 @@
 </div>
     
     
-### Banco de Dados e relacionados
+### Banco de Dados e Relacionados
 <div style="display: inline_block">
     <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img align="center" alt="Nodemon" src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD">
